@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the GNU General Public License Version 2, June 1991. See the [LICENSE](./LICENSE.md) file for details.
+
 Smart Contract Review - in progress
 
 ### SC Descriptions
